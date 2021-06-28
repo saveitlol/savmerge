@@ -20,16 +20,16 @@ class Config(object):
     BOT_OWNER = int(os.environ.get("BOT_OWNER", 1445283714))
 
     START_TEXT = """
-Hi Unkil, I am Video Merge Bot!
+Hi Bro, I am Video Merge Bot!
 I can Merge Multiple Videos in One Video. Video Formats should be same.
 
-Made by @AbirHasan2005
+Made by @saveitlol
 """
-    CAPTION = "Video Merged by @{}\n\nMade by @AbirHasan2005"
+    CAPTION = "Video Merged by @{}\n\nMade by @saveitlol"
     PROGRESS = """
-Percentage : {0}%
-Done: {1}
-Total: {2}
-Speed: {3}/s
-ETA: {4}
+🛠Percentage : {0}%
+✅Done: {1}
+📡Total: {2}
+🚀Speed: {3}/s
+⏳ETA: {4}
 """
